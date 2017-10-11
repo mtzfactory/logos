@@ -1,4 +1,4 @@
-##Repositorio de logos de las aplicaciones mas utilizadas en mis proyectos.
+## Repositorio de logos de las aplicaciones mas utilizadas en mis proyectos.
 
 Los archivos SVG los he tomado de [svgporn][svgporn-link]
 
