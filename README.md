@@ -5,26 +5,26 @@ Los archivos SVG los he tomado de [svgporn][svgporn-link].
 Para convertir los archivos SVG a formato PNG y [escalarlos][howtogeek-link] (fijando la altura), podeis usar el siguiente comando:
 
 ```bash
-$ for file in ./svg/*.svg; do convert "$file" -resize x36 ./png/"${file%.svg}.png"; done
+$ for file in ./svg/*.svg; do convert "$file" -resize x36 https://mtzfactory.github.io/logos/png/"${file%.svg}.png"; done
 ```
 
 Preview:
 
-![angular](./png/angular.png)
-![arduino](./png/arduino.png)
-![atom](./png/atom.png)
-![babel](./png/babel.png)
-![bootstrap](./png/bootstrap.png)
-![browserify](./png/browserify.png)
-![css](./png/css-3.png)
-![firebase](./png/firebase.png)
-![github](./png/github.png)
-![html-5](./png/html-5.png)
-![jasmine](./png/jasmine.png)
-![javascript](./png/javascript.png)
-![jquery](./png/jquery.png)
-![react](./png/react.png)
-![sass](./png/sass.png)
+![angular](https://mtzfactory.github.io/logos/png/angular.png)
+![arduino](https://mtzfactory.github.io/logos/png/arduino.png)
+![atom](https://mtzfactory.github.io/logos/png/atom.png)
+![babel](https://mtzfactory.github.io/logos/png/babel.png)
+![bootstrap](https://mtzfactory.github.io/logos/png/bootstrap.png)
+![browserify](https://mtzfactory.github.io/logos/png/browserify.png)
+![css](https://mtzfactory.github.io/logos/png/css-3.png)
+![firebase](https://mtzfactory.github.io/logos/png/firebase.png)
+![github](https://mtzfactory.github.io/logos/png/github.png)
+![html-5](https://mtzfactory.github.io/logos/png/html-5.png)
+![jasmine](https://mtzfactory.github.io/logos/png/jasmine.png)
+![javascript](https://mtzfactory.github.io/logos/png/javascript.png)
+![jquery](https://mtzfactory.github.io/logos/png/jquery.png)
+![react](https://mtzfactory.github.io/logos/png/react.png)
+![sass](https://mtzfactory.github.io/logos/png/sass.png)
 
 [svgporn-link]: https://svgporn.com
 
