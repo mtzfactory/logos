@@ -1,6 +1,6 @@
 ## Repositorio de logos de las aplicaciones mas utilizadas en mis proyectos.
 
-Los archivos SVG los he tomado de [svgporn][svgporn-link]
+Los archivos SVG los he tomado de [svgporn][svgporn-link].
 
 Para convertir los archivos SVG a formato PNG y [escalarlos][howtogeek-link] (fijando la altura), podeis usar el siguiente comando:
 
