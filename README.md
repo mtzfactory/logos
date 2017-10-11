@@ -23,6 +23,7 @@ Preview:
 ![jasmine](https://mtzfactory.github.io/logos/png/jasmine.png)
 ![javascript](https://mtzfactory.github.io/logos/png/javascript.png)
 ![jquery](https://mtzfactory.github.io/logos/png/jquery.png)
+![python](https://mtzfactory.github.io/logos/png/python.png)
 ![react](https://mtzfactory.github.io/logos/png/react.png)
 ![sass](https://mtzfactory.github.io/logos/png/sass.png)
 
