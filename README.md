@@ -23,6 +23,7 @@ Preview:
 ![jasmine](./png/jasmine.png)
 ![javascript](./png/javascript.png)
 ![jquery](./png/jquery.png)
+![react](./png/react.png)
 ![sass](./png/sass.png)
 
 [svgporn-link]: https://svgporn.com
