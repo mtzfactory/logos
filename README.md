@@ -8,6 +8,8 @@ Para convertir los archivos SVG a formato PNG y [escalarlos][howtogeek-link] (fi
 $ for file in *.svg; do convert "$file" -resize x36 ../png/"${file%.svg}.png"; done
 ```
 
+Preview:
+
 ![angular](./png/angular.png)
 ![arduino](./png/arduino.png)
 ![atom](./png/atom.png)
