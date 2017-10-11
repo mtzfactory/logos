@@ -18,6 +18,7 @@ Preview:
 ![browserify](https://mtzfactory.github.io/logos/png/browserify.png)
 ![css](https://mtzfactory.github.io/logos/png/css-3.png)
 ![firebase](https://mtzfactory.github.io/logos/png/firebase.png)
+![flask](https://mtzfactory.github.io/logos/png/flask.png)
 ![github](https://mtzfactory.github.io/logos/png/github.png)
 ![html-5](https://mtzfactory.github.io/logos/png/html-5.png)
 ![jasmine](https://mtzfactory.github.io/logos/png/jasmine.png)
