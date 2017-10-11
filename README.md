@@ -2,7 +2,7 @@
 
 Los archivos SVG los he tomado de [svgporn][svgporn-link].
 
-Para convertir los archivos SVG a formato PNG y [escalarlos][howtogeek-link] (fijando la altura), podeis usar el siguiente comando:
+Para convertir los archivos SVG a formato PNG y [escalarlos][howtogeek-link] con [imageMagick][imagemagick-link] (fijando la altura), podeis usar el siguiente comando:
 
 ```bash
 $ for file in ./svg/*.svg; do convert "$file" -resize x36 https://mtzfactory.github.io/logos/png/"${file%.svg}.png"; done
@@ -30,3 +30,5 @@ Preview:
 [svgporn-link]: https://svgporn.com
 
 [howtogeek-link]: https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/
+
+[imagemagick-link]: http://www.imagemagick.org/script/index.php
