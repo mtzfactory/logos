@@ -5,7 +5,13 @@ Los archivos SVG los he tomado de [svgporn][svgporn-link].
 Para convertir los archivos SVG a formato PNG y [escalarlos][howtogeek-link] con [imageMagick][imagemagick-link] (fijando la altura), podeis usar el siguiente comando:
 
 ```bash
-$ for file in ./svg/*.svg; do convert "$file" -resize x36 ./png/"${file%.svg}.png"; done
+$ for file in *.svg; do convert "$file" -resize x36 ../png/"${file%.svg}.png"; done
+```
+
+Para añadir un borde blanco en la izquierda:
+
+```bash
+$ for file in *.svg; do convert "$file" -resize x36 -background white -splice 5x0 ../png-2/"${file%.svg}.png"; done
 ```
 
 Preview:
