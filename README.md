@@ -5,7 +5,7 @@ Los archivos SVG los he tomado de [svgporn][svgporn-link].
 Para convertir los archivos SVG a formato PNG y [escalarlos][howtogeek-link] con [imageMagick][imagemagick-link] (fijando la altura), podeis usar el siguiente comando:
 
 ```bash
-$ for file in ./svg/*.svg; do convert "$file" -resize x36 https://mtzfactory.github.io/logos/png/"${file%.svg}.png"; done
+$ for file in ./svg/*.svg; do convert "$file" -resize x36 ./png/"${file%.svg}.png"; done
 ```
 
 Preview:
@@ -17,6 +17,7 @@ Preview:
 ![bootstrap](https://mtzfactory.github.io/logos/png/bootstrap.png)
 ![browserify](https://mtzfactory.github.io/logos/png/browserify.png)
 ![css](https://mtzfactory.github.io/logos/png/css-3.png)
+![express](https://mtzfactory.github.io/logos/png/express.png)
 ![firebase](https://mtzfactory.github.io/logos/png/firebase.png)
 ![flask](https://mtzfactory.github.io/logos/png/flask.png)
 ![github](https://mtzfactory.github.io/logos/png/github.png)
@@ -24,6 +25,8 @@ Preview:
 ![jasmine](https://mtzfactory.github.io/logos/png/jasmine.png)
 ![javascript](https://mtzfactory.github.io/logos/png/javascript.png)
 ![jquery](https://mtzfactory.github.io/logos/png/jquery.png)
+![mongodb](https://mtzfactory.github.io/logos/png/mongodb.png)
+![nodejs](https://mtzfactory.github.io/logos/png/nodejs.png)
 ![python](https://mtzfactory.github.io/logos/png/python.png)
 ![react](https://mtzfactory.github.io/logos/png/react.png)
 ![sass](https://mtzfactory.github.io/logos/png/sass.png)
