@@ -34,6 +34,7 @@ Preview:
 ![mongodb](https://mtzfactory.github.io/logos/png-2/mongodb.png)
 ![nodejs](https://mtzfactory.github.io/logos/png-2/nodejs.png)
 ![passport](https://mtzfactory.github.io/logos/png-2/passport.png)
+![pug](https://mtzfactory.github.io/logos/png-2/pug.png)
 ![python](https://mtzfactory.github.io/logos/png-2/python.png)
 ![react](https://mtzfactory.github.io/logos/png-2/react.png)
 ![sass](https://mtzfactory.github.io/logos/png-2/sass.png)
